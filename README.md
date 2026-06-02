@@ -73,8 +73,3 @@ Visit the live website:
 * Portfolio: https://vaibhavkumarjak7.github.io/vaibhav-portfolio
 
 ---
-
-
-```bash
-⭐ Star this repository
-```
